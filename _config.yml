@@ -1,14 +1,14 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
+title:             Gavin Shavey
+email:             gavinshavey@gmail.com
+description:       Personal Website
+author:            Gavin Shavey
 baseurl:           ""
 url:               "http://gshav.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  GavinShavey
+github_username:   gshav
+facebook_username: gavin.shavey
 
 # Build settings
 markdown:          kramdown
